@@ -1,6 +1,8 @@
-I'm agentblack6000
-Currently doing CS50
-Intermediate web developer
+# 👋 I'm agentblack6000
+I'm a Python developer, currently learning Django!
+
+### Projects-
+- [Retro50(CS50's final project)](https://github.com/agentblack-6000/retro50)
 
 
 
