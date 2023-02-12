@@ -1,9 +1,10 @@
 # 👋 I'm agentblack6000
 I'm a Python developer, currently learning Django!
+Member of Hack Club
 
 ### Projects-
-- [retro50(CS50's final project)](https://github.com/agentblack-6000/retro50)
-- [explorer(CS50P's final project)](https://github.com/agentblack-6000/explorer)
+- [retro50](https://github.com/agentblack-6000/retro50)
+- [explorer](https://github.com/agentblack-6000/explorer)
 - [hangman](https://github.com/agentblack-6000/hangman)
 
 
