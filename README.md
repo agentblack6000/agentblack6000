@@ -1,7 +1,7 @@
 # 👋 I'm agentblack6000
 I'm a Python and C developer, member of Hack Club, currently learning Django!
 
-### Projects-
+### Check out my hackerspace-
 - [retro50](https://github.com/agentblack-6000/retro50)
 - [explorer](https://github.com/agentblack-6000/explorer)
 - [hangman](https://github.com/agentblack-6000/hangman)
