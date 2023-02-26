@@ -5,7 +5,7 @@ I'm a Python and C developer, CS50 and CS50P student, member of Hack Club, curre
 - [retro50](https://github.com/agentblack-6000/retro50) (CS50's final project)
 - [explorer](https://github.com/agentblack-6000/explorer) (CS50P's final project)
 - [hangman](https://github.com/agentblack-6000/hangman) 
-- [image-to-ascii](https://github.com/agentblack-6000/image-to-ascii)
+- [image2ASCII](https://github.com/agentblack6000/image2ASCII)
 
 
 
