@@ -1,13 +1,5 @@
 # 👋 I'm agentblack6000
-I'm a Python and C developer, CS50 and CS50P student, part of the Sprig triage team at Hack Club, currently learning Django and solving Project Euler problems!
-
-### Check out my projects-
-- [Project Euler problems](https://github.com/agentblack6000/euler)
-- [hangman](https://github.com/agentblack-6000/hangman) 
-- [image2ASCII](https://github.com/agentblack6000/image2ASCII)
-- [retro50](https://github.com/agentblack-6000/retro50) (CS50's final project)
-- [explorer](https://github.com/agentblack-6000/explorer) (CS50P's final project)
-
+I'm a Python and C developer, CS50 and CS50P student, currently exploring multi-layer perceptrons, operating systems, and computer networks
 
 
 
