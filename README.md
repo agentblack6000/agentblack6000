@@ -1,5 +1,5 @@
-# 👋 I'm agentblack6000
-I'm a Python and C developer, CS50 and CS50P student, currently exploring multi-layer perceptrons, operating systems, and computer networks
+# 👋 I'm deadinside911
+I'm a Python and C developer, CS50 and CS50P alumni, currently exploring multi-layer perceptrons, operating systems, and computer networking
 
 
 
